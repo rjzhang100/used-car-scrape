@@ -1,0 +1,235 @@
+,Name,Price,Location,Mileage
+0,2004 Toyota matrix,"C$3,400","Surrey, BC",288K km
+1,2001 Honda prelude,"C$1,000","Surrey, BC",315K km
+2,2000 Volvo s70,"C$2,500","Vancouver, BC",110K km
+3,2007 Chevrolet cobalt,"C$3,700","Vancouver, BC",230K km
+4,2006 Volkswagen jetta,"C$3,555","Vancouver, BC",281K km
+5,2007 Toyota yaris,"C$4,500","Surrey, BC",186K km
+6,2003 Nissan altima,"C$1,255","Vancouver, BC",325K km
+7,2007 Chevrolet aveo,"C$3,311","Surrey, BC",190K km
+8,2000 Volkswagen golf,"C$1,999","Delta, BC",327K km
+9,2008 Honda civic,"C$4,888","Vancouver, BC",304K km
+10,2001 BMW series 5,"C$12,000","West Vancouver, BC",117K km
+11,2001 Hyundai tburn,"C$1,300","Port Coquitlam, BC",301K km
+12,2007 Nissan versa,"C$4,999","Vancouver, BC",213K km
+13,2021 Ferrari roma,"C$359,900","North Vancouver, BC",5.5K km
+14,2006 Porsche cayman,"C$39,888","Vancouver, BC",89K km
+15,2003 Honda cr-v,"C$5,999","Surrey, BC",186K km
+16,2004 BMW x5,"C$3,500","Surrey, BC",220K km
+17,2010 Kia soul,"C$7,900","Burnaby, BC",149K km
+18,2001 Honda accord 4cylinder save money gas,"C$1,500","Vancouver, BC",
+19,2000 Ford focus,"C$2,400",,215K km
+20,2003 Honda cr-v,"C$2,499","Surrey, BC",180K km
+21,2013 Volkswagen jetta,"C$2,999","Burnaby, BC",282K km
+22,2010 Dodge journey r/t,"C$7,600","Burnaby, BC",176K km
+23,2014 Chrysler 200 limited,"C$6,999","Surrey, BC",148K km
+24,2008 BMW 335xi,"C$5,999","Vancouver, BC",200K km
+25,2010 Chevrolet equinox,"C$13,000","Delta, BC",198K km
+26,2010 Honda insight,"C$3,000","Surrey, BC",250K km
+27,2003 BMW series 3,"C$8,900","Surrey, BC",202K km
+28,2013 Bentley continental gt convertible,"C$8,999","Vancouver, BC",229K km
+29,2015 Nissan altima,"C$149,888","Burnaby, BC",
+30,2014 Scion iq,"C$12,000","Delta, BC",164K km
+31,2021 Ford mustang premium ecoboost,"C$10,998",,104K km
+32,2012 BMW x6,C$263,"Surrey, BC",22K km
+33,2021 Lexus lc500 coupe,"C$20,900","Surrey, BC",135K km
+34,2013 Nissan gt-r,"C$109,800","Surrey, BC",17K km
+35,2017 Nissan rogue,"C$98,000","Vancouver, BC",49K km
+36,2015 Ram promaster,"C$17,900","Richmond, BC",115K km
+37,2020 Mercedes-Benz e450,"C$23,987","Vancouver, BC",124K km
+38,1982 Honda xr,"C$78,888","New Westminster, BC",14K km
+39,2005 Nissan frontier,"C$1,700","Port Moody, BC",12K km
+40,2016 Dodge durango,"C$7,500","Delta, BC",243K km
+41,2007 Honda cr-v,"C$33,998","White Rock, BC",102K km
+42,2014 BMW series 3,"C$9,997","White Rock, BC",197K km
+43,2021 BMW 228i xdrive,"C$13,900","Surrey, BC",166K km
+44,2000 Ford ranger,"C$47,288","Vancouver, BC",31K km
+45,2021 Chevrolet ultralow mileage corvette 2lt c8,"C$7,500","Burnaby, BC",309K km
+46,2017 Mazda mx-5 miata,"C$127,999","Vancouver, BC",2.3K km
+47,2019 Subaru crosstrek,"C$36,980","Vancouver, BC",39K km
+48,2017 Subaru forester,"C$33,995","Vancouver, BC",45K km
+49,2015 Mercedes-Benz cla250 4matic,"C$29,988","Surrey, BC",61K km
+50,2005 Porsche cayenne,"C$24,800","Richmond, BC",68K km
+51,2017 Chevrolet corvette,"C$38,800","Vancouver, BC",118K km
+52,2018 Volkswagen atlas,"C$62,888","Richmond, BC",41K km
+53,2012 BMW 328i sports,"C$40,999","Burnaby, BC",65K km
+54,2018 Ford f-150,"C$14,500","Richmond, BC",110K km
+55,"2014 Volvo S60 (111,987 kms)","C$36,888","Vancouver, BC",138K km
+56,2011 Ford taurus,"C$16,900","Surrey, BC",
+57,2021 Chevrolet corvette c8 2lt,"C$20,000","Surrey, BC",52K km
+58,2020 Ford mustang roush stage 3 gt premium,"C$128,000","Burnaby, BC",2K km
+59,2019 Mercedes-Benz c-class,"C$60,000",,13K km
+60,2011 Mercedes-Benz b-class,"C$45,995","Burnaby, BC",65K km
+61,2011 Honda cr-v,"C$9,800","Richmond, BC",166K km
+62,2013 Chevrolet sonic,"C$18,593","Surrey, BC",110K km
+63,2023 Hyundai elantra hybrid,"C$9,900","Surrey, BC",112K km
+64,2013 Porsche cayenne,"C$36,024","Richmond, BC",300 km
+65,2020 Porsche cayenne,"C$22,998","Vancouver, BC",182K km
+66,2016 Dodge dart,"C$88,898","Coquitlam, BC",19K km
+67,2008 Pontiac g6,"C$10,499","Vancouver, BC",132K km
+68,2011 Chevrolet aveo,"C$5,995","Vancouver, BC",195K km
+69,1968 Mercedes-Benz se 250,"C$4,888","Vancouver, BC",120K km
+70,2018 Toyota rav4,"C$20,000","Surrey, BC",99K km
+71,2013 Nissan leaf,"C$39,998","Vancouver, BC",68K km
+72,2016 Tesla model x,"C$18,998","Surrey, BC",70K km
+73,2005 Bayliner 185 ‘05 new engine bayliner,"C$68,888","Vancouver, BC",80K km
+74,2021 Tesla model 3,"C$10,500","New Westminster, BC",
+75,2009 Toyota sienna,"C$60,888","Surrey, BC",33K km
+76,2020 Mitsubishi rvr se,"C$9,899","Richmond, BC",218K km
+77,2017 Volkswagen tiguan,"C$33,000","North Vancouver, BC",19K km
+78,2017 Subaru WRX,"C$22,999",,65K km
+79,2010 Chrysler town & country,"C$28,434","Vancouver, BC",98K km
+80,2013 Honda civic,"C$6,111","Surrey, BC",190K km
+81,2021 Ford mustang coupe mach 1,"C$14,998","Richmond, BC",89K km
+82,2017 Lincoln MKC Reserve * AWD * S/R * Navi * Low KLM > 47K > in house fin,"C$72,995","Vancouver, BC",532 km
+83,2007 Nissan versa,C$115,"Surrey, BC",
+84,2023 Kia sportage x-line limited,"C$7,995","Vancouver, BC",164K km
+85,2020 Kia sedona lx,"C$51,995","Vancouver, BC",2.9K km
+86,2023 Kia brand rio 5 2023,"C$42,995","Vancouver, BC",82K km
+87,2020 Kia telluride,"C$25,695","Surrey, BC",300 km
+88,2023 Kia forte ex premium,"C$62,995",,13K km
+89,2020 Volvo s60,"C$32,545","Coquitlam, BC",300 km
+90,2012 Mercedes-Benz ml63 amg,"C$41,598","Vancouver, BC",39K km
+91,2006 Dodge ram 2500,"C$26,000","Port Moody, BC",140K km
+92,2018 BMW 440i,"C$19,000","Vancouver, BC",335K km
+93,2013 BMW x1,"C$40,000","Vancouver, BC",50K km
+94,2015 Honda cbr,"C$14,995","Vancouver, BC",149K km
+95,2019 Kia optima,"C$5,000","Port Coquitlam, BC",12K km
+96,2022 Ford bronco big bend,"C$31,995","Richmond, BC",64K km
+97,2016 Nissan leaf,"C$64,900","Burnaby, BC",3.3K km
+98,2023 Nissan leaf,"C$29,971","North Vancouver, BC",58K km
+99,2014 Ducati streetfighter,"C$12,345","New Westminster, BC",500 km
+100,2017 Chevrolet corvette,"C$10,000","New Westminster, BC",27K km
+101,2007 Jeep compass,"C$65,999","Vancouver, BC",40K km
+102,2010 Ford escape,"C$4,111","North Vancouver, BC",229K km
+103,2021 Tesla model 3- 430km range - 5%tax only!,"C$6,500","Surrey, BC",175K km
+104,2016 Volvo 760,"C$68,980","Surrey, BC",23K km
+105,2013 Porsche boxster,"C$76,000","Surrey, BC",
+106,2020 Toyota corolla,"C$44,996","Richmond, BC",113K km
+107,2013 BMW 2013 bmw 3-series 335i xdrive | low km's | fully inspected & ready go.,"C$26,500","Vancouver, BC",9K km
+108,2009 Nissan rav4,"C$18,869","Vancouver, BC",
+109,2019 Mercedes-Benz c300 amg package,"C$10,900","Vancouver, BC",180K km
+110,2008 Lincoln mkx,C$300,"Surrey, BC",65K km
+111,2010 Infiniti g37 convertible,"C$5,800",,186K km
+112,2005 Toyota alphard,"C$18,498","Richmond, BC",135K km
+113,2014 Kia rondo ex prem,"C$10,900","Vancouver, BC",
+114,2018 Toyota rav4,"C$12,850","Surrey, BC",50K km
+115,2018 Jeep wrangler unlimited,"C$29,500",,63K km
+116,2020 BMW series 3,"C$45,000","Delta, BC",39K km
+117,2018 Mazda mx-5 miata,"C$46,995","Surrey, BC",33K km
+118,2019 Ford mustang,"C$41,380","Surrey, BC",22K km
+119,2017 Mercedes-Benz gle43 amg 4matic,"C$42,000","Surrey, BC",44K km
+120,2020 Toyota rav-4 xle hybrid,"C$55,000","Surrey, BC",41K km
+121,2008 Volkswagen bettel convertible,"C$52,999",,64K km
+122,2018 Chrysler pacifica hybrid,"C$9,800","Burnaby, BC",102K km
+123,2015 Ram 1500 laramie,"C$40,995","Burnaby, BC",121K km
+124,2020 Volkswagen jetta highline,"C$38,899","West Vancouver, BC",70K km
+125,2017 Audi a4,C$187,"Coquitlam, BC",80K km
+126,2007 Cadillac escalade,"C$33,800","Surrey, BC",212K km
+127,2020 Kia telluride,"C$17,500","Surrey, BC",26K km
+128,2017 Dodge charger SXT,"C$59,998","Richmond, BC",124K km
+129,2018 Toyota tacoma,"C$29,987","Surrey, BC",116K km
+130,2013 Ford edge,"C$44,498","Surrey, BC",172K km
+131,2020 Toyota tacoma trd off-road,"C$8,950","Surrey, BC",69K km
+132,2022 Kia forte ex,"C$45,498","Coquitlam, BC",300 km
+133,1982 Kawasaki gpz,"C$28,995","Surrey, BC",76K km
+134,2015 Audi a5 quattro tfsi,"C$5,000","Richmond, BC",51K km
+135,2011 Ram 3500,"C$28,994","Burnaby, BC",205K km
+136,2020 Mercedes-Benz GLE 350,"C$30,900","Vancouver, BC",25K km
+137,2008 Honda ridgeline,"C$69,900","Port Moody, BC",159K km
+138,2020 Volvo s60,"C$15,995","Surrey, BC",39K km
+139,"2017 Nissan Sentra S (only 35,369 kms!!!)","C$41,598","Surrey, BC",
+140,2018 Mazda 3,"C$16,900","Surrey, BC",53K km
+141,2022 Mitsubishi outlander gt,"C$23,500","Vancouver, BC",30K km
+142,2022 Kawasaki klx,"C$43,888","North Vancouver, BC",3.3K km
+143,2017 Toyota corolla XSE,"C$6,200","Coquitlam, BC",54K km · Dealership
+144,2015 Acura ilx,"C$25,790","Surrey, BC",92K km
+145,2009 Ford f-250,"C$18,995","Vancouver, BC",247K km
+146,2020 Kia stinger gt limited,"C$17,000","Vancouver, BC",18K km
+147,2013 Porsche boxster,"C$49,205","Vancouver, BC",113K km
+148,2019 Ford mustang,"C$44,995","Burnaby, BC",18K km
+149,2023 Nissan Rogue s fwd (in transit),"C$38,421",,
+150,2018 Infiniti qx60,"C$30,850","Vancouver, BC",48K km
+151,2021 Kia telluride sales event,"C$45,000","Burnaby, BC",3K km
+152,2023 Kia seltos ex,C$1,"Vancouver, BC",300 km
+153,2020 Jeep grand cherokee,"C$35,495","New Westminster, BC",58K km
+154,2008 Jeep compass,"C$43,000","New Westminster, BC",255K km
+155,2020 Land Rover range rover evoque,"C$3,888","Surrey, BC",25K km
+156,2018 Ford flex,"C$93,400","Vancouver, BC",90K km
+157,2014 Lexus is 350 f-sport,"C$34,450","Richmond, BC",99K km
+158,2022 Chev Silverado * Crew 4WD * 2.7L * Liner * Remote Start * Hitch * P/Seat * Brand New  > short crazy plan > monthly yes,"C$29,998","Surrey, BC",
+159,2022 Jeep wrangler rubicon | skytop,C$398,"Burnaby, BC",300 km
+160,2016 Ford explorer,"C$81,499",,140K km
+161,2016 Ram 3500,"C$25,500","Surrey, BC",252K km
+162,2018 Audi a5 RS 5,"C$39,900","Vancouver, BC",62K km
+163,2023 Volvo xc90 recharge ultimate-in stock,"C$73,997","Vancouver, BC",300 km
+164,2022 Dodge charger gt,"C$103,063","Richmond, BC",12K km
+165,2012 Acura tsx,"C$52,299","Delta, BC",104K km
+166,2007 Toyota tundra,"C$15,998","North Vancouver, BC",263K km
+167,2023 Kia brand new kia soul ex,"C$19,995","Surrey, BC",300 km
+168,2018 Mercedes-Benz cla250 4matic,"C$31,645","New Westminster, BC",58K km
+169,2015 Toyota tundra trd off-road,"C$31,500","Surrey, BC",62K km
+170,2016 Kia optima,"C$46,995",,130K km
+171,2020 Chevrolet suburban commercial,"C$17,995","Surrey, BC",
+172,GLE 350,"C$63,250","Surrey, BC",210K km
+173,2011 Toyota camry,"C$75,000","Coquitlam, BC",
+174,2023 Nissan Rogue s awd (in transit),"C$9,888","Surrey, BC",52K km
+175,2017 Toyota rav4,"C$32,390","Vancouver, BC",
+176,"2014 Nissan Rogue S AWD (88,112 kms)","C$35,980","Coquitlam, BC",36K km
+177,2018 Ford ecosport,"C$17,800","New Westminster, BC",145K km
+178,2012 Jeep wrangler,"C$28,893","New Westminster, BC",90K km
+179,2019 Kia optima,"C$20,000","Vancouver, BC",43K km
+180,2021 Kia telluride nightsky,"C$24,995","North Vancouver, BC",26K km
+181,2020 Kia telluride,"C$64,995","Richmond, BC",127K km
+182,2016 Nissan murano,"C$61,610","Surrey, BC",700 km
+183,2022 Chrysler pacifica limited,"C$26,995","Surrey, BC",500 miles
+184,1968 Plymouth barracuda Super sport,"C$62,998",,
+185,2002 Chevrolet Camaro SS - contactless financing / free delivery,"C$85,000","Delta, BC",300K km
+186,2012 Ram 1500,C$123,"Vancouver, BC",204K km
+187,2015 Nissan sentra,"C$14,888","Burnaby, BC",51K km
+188,2020 Mercedes-Benz gle53 amg 4matic,"C$7,990",,69K km
+189,2019 Subaru crosstrek,"C$93,500","Vancouver, BC",65K km
+190,2019 Mercedes-Benz c300 amg package,"C$31,858","Burnaby, BC",
+191,2021 Jeep wrangler unlimited sahara,C$300,,146K km
+192,2014 Land Rover range rover evoque,"C$54,999","Vancouver, BC",
+193,2016 BMW 428i,"C$21,500","Coquitlam, BC",251K km
+194,2009 Jeep liberty,"C$23,498","Port Coquitlam, BC",98K km
+195,"2008 Honda civic lx one owner, no accidents, low mileages, wow! extra winter tires and rims included","C$6,500","Vancouver, BC",
+196,2016 BMW 435i  xdrive m coupe,"C$10,995","Vancouver, BC",30K km
+197,2019 Hyundai veloster,"C$44,995","Vancouver, BC",
+198,2010 Honda cr-v,"C$34,997","Vancouver, BC",9K km
+199,2020 Toyota corolla,C$40,"Vancouver, BC",
+200,2012 Freightliner cascadia,"C$26,500","Burnaby, BC",
+201,2002 Pontiac Trans-Am - contactless financing / free delivery,"C$55,000",,91K km
+202,2016 Subaru forester,C$123,"Surrey, BC",44K km
+203,2019 Lexus is 300 awd f sport series 2,"C$19,998","Surrey, BC",129K km
+204,2014 Ford edge,"C$48,000","Richmond, BC",
+205,2021 Hyundai - contactless financing / free delivery,"C$17,000","Surrey, BC",19K km
+206,2018 Volkswagen jetta,C$123,"Surrey, BC",17K km
+207,2021 Lexus uxh,"C$28,498","Richmond, BC",11K km
+208,2019 KTM superduke,"C$48,484",,152K km
+209,2013 Hyundai sonata,"C$15,500","Vancouver, BC",132K km
+210,"2018 Hyundai elantra gl se auto, sunroof, alloys, accident free, back up camera, bluetooth","C$14,800","Vancouver, BC",23K km
+211,2020 Chevrolet colorado,"C$17,995",,
+212,2022 Nissan Armada SL midnight (in transit),"C$42,995","Vancouver, BC",111K km
+213,2022 Tesla model 3,"C$73,300","Burnaby, BC",34K km
+214,2020 Ram 1500 classic express,"C$69,999","New Westminster, BC",
+215,2019 Acura MDX,"C$47,000",,300 km
+216,2022 Nissan Qashqal SL Platinum awd (in transit),"C$46,964","Surrey, BC",124K km
+217,2022 Toyota highlander le awd,"C$32,900","Surrey, BC",35K km
+218,2017 Dodge journey,"C$48,999",,20K km
+219,2017 Volkswagen golf,"C$21,995","Vancouver, BC",36K km
+220,2022 Tesla y performance only 20k!,"C$29,980","Surrey, BC",118K km
+221,2019 Honda hr-v,"C$92,499",,157K km
+222,2015 Honda odyssey,"C$33,980","Burnaby, BC",128K km
+223,2014 Honda cr-v,"C$26,498",,30K km
+224,2010 Cadillac escalade,"C$20,998","Vancouver, BC",100K km
+225,2020 Mazda cx-5 gt,"C$27,995","Delta, BC",76K km
+226,2019 Infiniti qx60,"C$39,480","Vancouver, BC",116K km
+227,2019 Nissan murano,"C$36,000","Burnaby, BC",142K km
+228,2015 Chevrolet silverado 1500 ls double 4wd,"C$33,980",,46K km
+229,2015 Ford f-150,"C$29,887","Surrey, BC",26K km
+230,2018 Mazda cx-5,"C$29,800","Vancouver, BC",
+231,2019 Mazda cx-5,"C$33,980","North Vancouver District, BC",30K km
+232,"2023 chev * silverado 3500 HD * Duramax Diesel *  High Country * Deluxe * Crew 4wd * s/r , p/steps, 360 view > short plan > monthly","C$35,980","Surrey, BC",301 km
+233,2021 Mazda cx-5 100th anniversary edition,C$495,"Burnaby, BC",45K km
