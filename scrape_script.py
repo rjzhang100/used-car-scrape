@@ -37,7 +37,7 @@ def auto_scroll(wait_load_time: int):
         last_height = new_height
 
 
-
+#Scroll to bottom of page
 for _ in range(10):
     auto_scroll(1)
 
